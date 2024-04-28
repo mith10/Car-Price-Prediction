@@ -1,7 +1,8 @@
 Car Price Prediction
 ====================
 
-![Car Price Prediction](https://github.com/mith10/Car-Price-Prediction/blob/main/images/car-price-prediction.png)
+![image](https://github.com/mith10/Car-Price-Prediction/assets/159920212/4291ee1f-cc00-45fb-a601-dcbb59e9ae7a)
+
 
 Description
 -----------
