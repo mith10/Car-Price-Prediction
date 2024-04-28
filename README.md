@@ -20,8 +20,7 @@ Table of Contents
 * [Results](#results)
 * [Conclusion](#conclusion)
 * [Future Work](#future-work)
-* [Contributing](#contributing)
-* [License](#license)
+
 
 Dataset
 -------
